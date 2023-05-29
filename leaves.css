@@ -1,0 +1,139 @@
+.leaves {
+    z-index: -1;
+    width: 265px;
+    height: 215px;
+    position: fixed;
+    transition: 500ms ease-out;
+}
+
+.top-row {
+    z-index: -1;
+    width: 100%;
+    height: 25%;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    top: 0;
+}
+
+.top-row > img {
+    position: relative;
+}
+
+.top-row :first-child {
+    left: 12em;
+    top: -2em;
+    transform: scale(1.5) rotate(-45deg) rotate(calc(var(--rotation) * -1deg));
+}
+
+.top-row :nth-child(2) {
+    left: 15em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * .6deg));
+}
+
+.top-row :nth-child(3) {
+    left: -10em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * .4deg));
+}
+
+.top-row :nth-child(4) {
+    left: 20em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * -.6deg));
+}
+
+.top-row :nth-child(5) {
+    left: 18em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * .7deg));
+}
+
+.top-row :nth-child(6) {
+    left: 6em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * .6deg));
+}
+
+.top-row :nth-child(7) {
+    left: 15em;
+    transform: scale(2) rotateX(180deg) rotate(calc(var(--rotation) * 1deg));
+}
+
+.bottom-row {
+    z-index: -1;
+    width: 100%;
+    height: 25%;
+    position: fixed;
+    bottom: 0;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.bottom-row > img {
+    position: relative;
+}
+
+.bottom-row :first-child {
+    left: 12em;
+    bottom: -2em;
+    transform: scale(1.5) rotateX(180deg) rotate(calc(var(--rotation) * -1deg));
+}
+
+.bottom-row :nth-child(2) {
+    left: 15em;
+    transform: scale(2) rotate(calc(var(--rotation) * .6deg));
+}
+
+.bottom-row :nth-child(3) {
+    left: -10em;
+    transform: scale(2) rotate(calc(var(--rotation) * .4deg));
+}
+
+.bottom-row :nth-child(4) {
+    left: 20em;
+    transform: scale(2) rotate(calc(var(--rotation) * -.6deg));
+}
+
+.bottom-row :nth-child(5) {
+    left: 18em;
+    transform: scale(2) rotate(calc(var(--rotation) * .7deg));
+}
+
+.bottom-row :nth-child(6) {
+    left: 6em;
+    transform: scale(2) rotate(calc(var(--rotation) * .6deg));
+}
+
+.bottom-row :nth-child(7) {
+    left: 15em;
+    transform: scale(2) rotate(calc(var(--rotation) * 1deg));
+}
+
+#bottom-right {
+    bottom: 0;
+    right: -30px;
+    transform: scale(2) rotate(calc(var(--rotation) * 1deg));
+}
+
+#bottom-left {
+    width: 365px;
+    height: 315px;
+    bottom: -50px;
+    left: -100px;
+    transform: scale(2) rotate(calc(var(--rotation) * -1deg));
+}
+
+#top-left {
+    top: 0;
+    left: -30px;
+    transform: scale(2) rotate(calc(180deg + calc(var(--rotation) * 1deg)));
+}
+
+#top-right {
+    width: 365px;
+    height: 315px;
+    top: 0;
+    right: 0;
+    transform: scale(2) rotateZ(210deg) rotate(calc(var(--rotation) * 1deg));
+}

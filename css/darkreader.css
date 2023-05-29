@@ -1,0 +1,49 @@
+{<style class="darkreader darkreader--override" media="screen">
+		.vimvixen-hint {
+			background-color: #7b5500 !important;
+			border-color: #d3ad18 !important;
+			color: #ede3c4 !important;
+		}
+
+		::placeholder {
+			opacity: 0.5 !important;
+		}
+
+		#edge-translate-panel-body,
+			.MuiTypography-body1,
+			.nfe-quote-text {
+				color: var(--darkreader-neutral-text) !important;
+		}
+
+		gr-main-header {
+			background-color: #153e4b !important;
+		}
+
+		.tou-z65h9k,
+		.tou-mignzq,
+		.tou-1b6i2ox,
+		.tou-lnqlqk {
+			background-color: var(--darkreader-neutral-background) !important;
+		}
+
+		.tou-75mvi {
+			background-color: #09252d !important;
+		}
+
+		.tou-ta9e87,
+		.tou-1w3fhi0,
+		.tou-1b8t2us,
+		.tou-py7lfi,
+		.tou-1lpmd9d,
+		.tou-1frrtv8,
+		.tou-17ezmgn {
+			background-color: #101010 !important;
+		}
+
+		.tou-uknfeu {
+			background-color: #271b09 !important;
+		}
+		.tou-6i3zyv {
+			background-color: #1e596d !important;
+		}
+}</style>

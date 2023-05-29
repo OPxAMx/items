@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html>
+    <title>EXO LABEL GEN</title>
+    <link rel="stylesheet" href="./Friandises Exotiques Muncheez_files/main.css"><style class="darkreader darkreader--sync" media="screen"></style>
+    <link rel="stylesheet" href="./Friandises Exotiques Muncheez_files/leaves.css"><style class="darkreader darkreader--sync" media="screen"></style>
+    <script src="./Friandises Exotiques Muncheez_files/leaves.min.js.télécharger" defer=""></script>
+    <link rel="stylesheet" href="./Friandises Exotiques Muncheez_files/search.css"><style class="darkreader darkreader--sync" media="screen"></style>
+    <script src="./Friandises Exotiques Muncheez_files/c-cart-handler.min.js.télécharger" defer=""></script>
+    <script src="./Friandises Exotiques Muncheez_files/search.min.js.télécharger" defer=""> </script>
+    <script src="./Friandises Exotiques Muncheez_files/navbar.min.js.télécharger" defer=""></script>
+     <nav id="navbar"><a class="logo" href="https://exotiquesmuncheez.ca/"><img src="./Friandises Exotiques Muncheez_files/logo.svg" type="image/svg"></a><a href="https://exotiquesmuncheez.ca/">
+        <button>Accueil</button></a><a href="https://exotiquesmuncheez.ca/explore">
+        <button>Explorer</button></a><a href="https://exotiquesmuncheez.ca/about-us">
+        <button>À propos</button></a>
+      <div class="burger"> <span></span><span></span><span></span></div>
+      <div class="panier"> <a href="https://exotiquesmuncheez.ca/cart"><img id="cart" src="./Friandises Exotiques Muncheez_files/cart.svg" type="image/svg"></a></div>
+      <div class="search"><a href="https://exotiquesmuncheez.ca/search"><img id="loupe" src="./Friandises Exotiques Muncheez_files/loupe.svg" type="image/svg"></a></div>
+    </nav>
+	    <div class="container">
+      <h1>Recherche</h1>
+      <div class="ctrl">
+        <input id="search" type="search" autofocus>
+      </div>
+	  <div class="result">
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6908946288206.jpg">
+			<div class="s-footer-head"> <span id="name">7up Asiatiques 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!4220&cid=6dcfb54023209e79&CT=1682102363698&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/7853001.jpg">
+			<div class="s-footer-head"> <span id="name">7up Cherry 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21837&cid=6dcfb54023209e79&CT=1682096667263&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/03168930159834.jpg">
+			<div class="s-footer-head"> <span id="name">7up Cerise 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15101&cid=6dcfb54023209e79&CT=1682873894642&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3168930159865.jpg">
+			<div class="s-footer-head"> <span id="name">7up Cocktail Exotique 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21838&cid=6dcfb54023209e79&CT=1682096687283&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3168930159803.jpg">
+			<div class="s-footer-head"> <span id="name">7up Mojitos 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21756&cid=6dcfb54023209e79&CT=1682096644658&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508175109.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Fleeb Juice 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22723&cid=6dcfb54023209e79&CT=1682102886775&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508175161.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Toxic Rick 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21687&cid=6dcfb54023209e79&CT=1682054988907&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508175291.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Liquid Rage Aggretsuko 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22727&cid=6dcfb54023209e79&CT=1682103033642&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508176014.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Ignite 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21687&cid=6dcfb54023209e79&CT=1682054988907&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508175383.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Plus Ultra 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22729&cid=6dcfb54023209e79&CT=1682103116422&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508176045.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American One For All 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22731&cid=6dcfb54023209e79&CT=1682103194827&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/611508175635.jpg">
+			<div class="s-footer-head"> <span id="name">Boston American Power Boost  355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22721&cid=6dcfb54023209e79&CT=1682102800915&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595118896.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Black Cherry 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22725&cid=6dcfb54023209e79&CT=1682102956212&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595116274.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Freedom Ice 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21732&cid=6dcfb54023209e79&CT=1682089892362&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595106596.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Frozen Bombsicle 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21730&cid=6dcfb54023209e79&CT=1682089884802&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595121650.jpg">			
+			<div class="s-footer-head"> <span id="name">C4 Fruit Punch 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21731&cid=6dcfb54023209e79&CT=1682089886731&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595118919.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Ice Blue Razz 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21830&cid=6dcfb54023209e79&CT=1682091559417&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595111095.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Midnight Cherry 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21829&cid=6dcfb54023209e79&CT=1682089901516&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595109368.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Orange Slice 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21728&cid=6dcfb54023209e79&CT=1682089879719&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595116243.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Peche Mangue 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21726&cid=6dcfb54023209e79&CT=1682089875655&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595109238.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Purple Frost 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21729&cid=6dcfb54023209e79&CT=1682089881938&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595121766.jpg">		
+			<div class="s-footer-head"> <span id="name">C4 Skittles Orignal 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21725&cid=6dcfb54023209e79&CT=1682089872641&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595109542.jpg">			
+			<div class="s-footer-head"> <span id="name">C4 Starburst Cherry 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21737&cid=6dcfb54023209e79&CT=1682091567083&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595121759.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Starburst Strawberry 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21727&cid=6dcfb54023209e79&CT=1682089876976&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595106572.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Strawberry Watermelon 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21736&cid=6dcfb54023209e79&CT=1682091563138&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/842595123074.jpg">
+			<div class="s-footer-head"> <span id="name">C4 Watermelon Burst 473ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21724&cid=6dcfb54023209e79&CT=1682089871131&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6224017.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21738&cid=6dcfb54023209e79&CT=1682091571486&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000144406.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry Ananas 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000160406.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry Black Cherry 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21683&cid=6dcfb54023209e79&CT=1682054976169&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000156409.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry Cranberry Ginger Ale 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15109&cid=6dcfb54023209e79&CT=1682874162680&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000164404.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry Peche 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21685&cid=6dcfb54023209e79&CT=1682054981157&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/73390008277.jpg">
+			<div class="s-footer-head"> <span id="name">Canada Dry Vanille Cream 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22915&cid=6dcfb54023209e79&CT=1682874357811&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613026150.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Artian Apple 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21813&cid=6dcfb54023209e79&CT=1682054200010&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613029151.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Banana 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22334&cid=6dcfb54023209e79&CT=1682054453382&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613028758.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Blueberry Blast 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21664&cid=6dcfb54023209e79&CT=1682054244418&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613027256.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Cola 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+			<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613021353.jpg">
+				<div class="s-footer-head"> <span id="name">Chubby Creme Soda 250ml</span></div>
+				<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21651&cid=6dcfb54023209e79&CT=1682054165176&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613023654.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Fraise 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21653&cid=6dcfb54023209e79&CT=1682054183504&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613028659.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Gomme baloune Chicle Bomba 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21810&cid=6dcfb54023209e79&CT=1682054238726&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613029359.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Martian Magic 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21813&cid=6dcfb54023209e79&CT=1682874673803&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613026655.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Orange 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613026358.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Poppin Pear 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21808&cid=6dcfb54023209e79&CT=1682054205459&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613029052.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Raisin 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613025450.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Reggae Gold 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22337&cid=6dcfb54023209e79&CT=1682054437748&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613022756.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Reggae Gold 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21652&cid=6dcfb54023209e79&CT=1682054173345&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613029250.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Reggae Red 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21652&cid=6dcfb54023209e79&CT=1682054173345&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/33613028956.jpg">
+			<div class="s-footer-head"> <span id="name">Chubby Tutti Frutti 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21816&cid=6dcfb54023209e79&CT=1682054467566&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069402451.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Fraise 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21666&cid=6dcfb54023209e79&CT=1682054433715&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069414690.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Fraise 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22759&cid=6dcfb54023209e79&CT=1682116859278&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069412986.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Fraise & Creme 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15122&cid=6dcfb54023209e79&CT=1682115293514&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069413099.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Framboises & Creme 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22762&cid=6dcfb54023209e79&CT=1682116929604&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069414706.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Framboises & Creme 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15124&cid=6dcfb54023209e79&CT=1682115304824&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069413082.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Lemon & Lime 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15124&cid=6dcfb54023209e79&CT=1682116588392&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3848069413082.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Mango 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15121&cid=6dcfb54023209e79&CT=1682115299473&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069412979.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Mangue 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15126&cid=6dcfb54023209e79&CT=1682115295043&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069402468.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Melon & Creme 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15126&cid=6dcfb54023209e79&CT=1682115295043&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069402475.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Orange 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15120&cid=6dcfb54023209e79&CT=1682116566937&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801069413136.jpg">
+			<div class="s-footer-head"> <span id="name">Chupa Chups Raisin 250ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22757&cid=6dcfb54023209e79&CT=1682116352010&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6782900.jpg">
+			<div class="s-footer-head"> <span id="name">Coca Cola 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15123&cid=6dcfb54023209e79&CT=1682115308142&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4905004.jpg">
+			<div class="s-footer-head"> <span id="name">Coca Cola Cerise 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22921&cid=6dcfb54023209e79&CT=1682877387664&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000078954.jpg">
+			<div class="s-footer-head"> <span id="name">Coca Cola Orange & Vanille 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21639&cid=6dcfb54023209e79&CT=1682875991018&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4936509.jpg">
+			<div class="s-footer-head"> <span id="name">Coca Cola Vanilla</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000093261.jpg">
+			<div class="s-footer-head"> <span id="name">Coke Cherry Vanilla 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6792800.jpg">
+			<div class="s-footer-head"> <span id="name">Coke Diet 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000014143.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Ananas 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22923&cid=6dcfb54023209e79&CT=1682877591664&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000014099.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Ananas 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22433&cid=6dcfb54023209e79&CT=1682054650028&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000014006.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Peche 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22433&cid=6dcfb54023209e79&CT=1682054650028&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5660300.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Creme Soda 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22919&cid=6dcfb54023209e79&CT=1682875724986&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000013696.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Fraise 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2278&cid=6dcfb54023209e79&CT=1682054644725&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000009132.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Fraise 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2278&cid=6dcfb54023209e79&CT=1682054644725&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5660106.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Orange 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2280&cid=6dcfb54023209e79&CT=1682053551118&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5660203.jpg">
+			<div class="s-footer-head"> <span id="name">Crush Raisin 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2281&cid=6dcfb54023209e79&CT=1682054646479&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700463.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Cerise Noire 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!4188&cid=6dcfb54023209e79&CT=1682053638065&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700470.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Fraise 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22425&cid=6dcfb54023209e79&CT=1682096795959&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700517.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Lychee 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22427&cid=6dcfb54023209e79&CT=1682096929788&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700371.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Mangue 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2284&cid=6dcfb54023209e79&CT=1682097229079&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700500.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Melon 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2285&cid=6dcfb54023209e79&CT=1682096745635&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700487.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Peche 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22429&cid=6dcfb54023209e79&CT=1682097158890&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/3700703700494.jpg">
+			<div class="s-footer-head"> <span id="name">Dada Pomme Vert 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!2286&cid=6dcfb54023209e79&CT=1682097039143&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/7895308.jpg">
+			<div class="s-footer-head"> <span id="name">Dr Pepper Cerise 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22431&cid=6dcfb54023209e79&CT=1682097099476&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/7866500.jpg">
+			<div class="s-footer-head"> <span id="name">Dr Pepper Cerise Vanille 335ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21644&cid=6dcfb54023209e79&CT=1682053721933&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000033489.jpg">
+			<div class="s-footer-head"> <span id="name">Dr Pepper Cream Soda 355mm</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21643&cid=6dcfb54023209e79&CT=1682053657698&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000032482.jpg">
+			<div class="s-footer-head"> <span id="name">Dr Pepper Dark Cherry 355 ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/78000023435.jpg">
+			<div class="s-footer-head"> <span id="name">Dr Peppers Vanilla Float 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15138&cid=6dcfb54023209e79&CT=1682117802353&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4712966542369.jpg">
+			<div class="s-footer-head"> <span id="name">Ocean Bomb Orange 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22379&cid=6dcfb54023209e79&CT=1682093891936&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4712966542383.jpg">
+			<div class="s-footer-head"> <span id="name">Ocean Bomb Peach 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15137&cid=6dcfb54023209e79&CT=1682117908877&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4712966542390.jpg">
+			<div class="s-footer-head"> <span id="name">Ocean Bomb Apple 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21679&cid=6dcfb54023209e79&CT=1682054633012&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4712966542376.jpg">
+			<div class="s-footer-head"> <span id="name">Ocean Bomb White Grape 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22338&cid=6dcfb54023209e79&CT=1682054626635&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4712966542352.jpg">
+			<div class="s-footer-head"> <span id="name">Ocean Bomb Vanilla 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21675&cid=6dcfb54023209e79&CT=1682054623673&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/67000011061.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Ananas 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21238&cid=6dcfb54023209e79&CT=1682094160866&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000076301.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Banane 237ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21675&cid=6dcfb54023209e79&CT=1682118380137&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000063059.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Big Red 237ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8935049501558.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Bleuet 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21796&cid=6dcfb54023209e79&CT=1682102316920&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6954767493473.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Ananas 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21796&cid=6dcfb54023209e79&CT=1682102316920&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6928804019414.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Slim Jasmin & Peche 500ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21793&cid=6dcfb54023209e79&CT=1682102331046&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6928804011586.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Slim Melon Deau 500ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6928804010886.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Peche 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21791&cid=6dcfb54023209e79&CT=1682102341358&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6928804011555.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Slim Peche 500ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/6928804011449.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Chinois Slim Pomme Verte</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000028201.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Pineapple 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!21785&cid=6dcfb54023209e79&CT=1682095434211&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5449000214829.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Citron Frappe 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5449000297877.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Elderflower Lemon 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15144&cid=6dcfb54023209e79&CT=1682117581758&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5740700996153.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Exotic</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!15144&cid=6dcfb54023209e79&CT=1682117581758&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5449000223319.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Exotique</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22928&cid=6dcfb54023209e79&CT=1682878443263&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5740700987984.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Fraise Kiwi 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/49000014266.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Strawberry 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4902102038720.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Grape 300ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4902102035378.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Grape Big Can 500ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/87126815.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Grape Russe 355ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/4902102144780.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Japon Kiwi 330ml </span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801094133207.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Koreen Citron 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801094123208.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Koreen Raisin 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/8801094113209.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Koreen Orange 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5449000054104.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Madarine 330ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/90331701.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Madness 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+		<div class="s-item"><img src="./Friandises Exotiques Muncheez_files/5000112652598.jpg">
+			<div class="s-footer-head"> <span id="name">Fanta Mango Guava 591ml</span></div>
+			<div class="s-footer-foot"> <span id="price"></span><a href="https://onedrive.live.com/edit.aspx?resid=6DCFB54023209E79!22345&cid=6dcfb54023209e79&CT=1682102374261&OR=ItemsView">
+				<button id="see">LABEL CLICK HERE</button></a></div>
+		</div>
+    <div class="mobile-drop"> <a href="https://exotiquesmuncheez.ca/">
+        <button>Accueil</button></a><a href="https://exotiquesmuncheez.ca/explore">
+        <button>Explorer</button></a><a href="https://exotiquesmuncheez.ca/about-us">
+        <button>À propos</button></a></div>
+    <div class="modal-drop">
+      <div class="header"><span></span><span>Article </span><span>Quantité</span><span>Prix</span><span></span></div>
+    </div>
+    <div class="modal-back"></div><img class="leaves" id="top-left" src="./Friandises Exotiques Muncheez_files/bRight.png" type="image/png">
+    <div class="top-row"> <img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (12).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (7).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (2).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (4).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (11).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (6).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (9).svg" type="image/svg"></div><img class="leaves" id="top-right" src="./Friandises Exotiques Muncheez_files/leaf (14).svg" type="image/svg"><img class="leaves" id="bottom-left" src="./Friandises Exotiques Muncheez_files/leaf (14).svg" type="image/svg">
+    <div class="bottom-row"> <img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (12).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (7).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (2).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (4).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (11).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (6).svg" type="image/svg"><img class="leaves" src="./Friandises Exotiques Muncheez_files/leaf (9).svg" type="image/svg"></div><img class="leaves" id="bottom-right" src="./Friandises Exotiques Muncheez_files/bRight.png" type="image/png">
+  
+
+<template id="cart-template"></template>
+<template id="item-template"></template><script src="chrome-extension://dammmokdamnimedflemdaoamhldmldff/sm.bundle.js" data-pname="fatkun-pro-mv3" data-asset-path="https://fkpm3.s3.ap-northeast-2.amazonaws.com"></script></body><fatkun-drop-panel style="display: none;"><template shadowrootmode="open"><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #824f00 !important;
+    border-color: #f7c400 !important;
+    color: #ffffe2 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #003041 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #000f1a !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #000000 !important;
+}
+.tou-uknfeu {
+    background-color: #120200 !important;
+}
+.tou-6i3zyv {
+    background-color: #06546f !important;
+}</style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) !important;
+}</style>
+    <style>
+        .fatkun-drop-area {
+            user-select: none;
+            font-family: "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "å¾®è½¯é›…é»‘", "Helvetica Neue", Helvetica, Arial, Arial, sans-serif;
+            font-weight: 400;
+            z-index: 2147483647;
+            position: fixed;
+            top: -999999px;
+            left: -999999px;
+            width: 400px;
+            text-align: center;
+            transition: background 0.1s ease-in-out, opacity 0.1s ease-in-out, transform 0.2s ease-in-out, border 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+            opacity: 0;
+            padding: 0;
+            transform: translateY(10px);
+            border-radius: 10px;
+            box-sizing: border-box;
+            opacity: 1;
+            background: #fff;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.20);
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid rgba(0, 0, 0, 0.5);
+        }
+
+        .fatkun-drop-area.show {
+            transition: transform 50ms ease;
+            transform: translateY(0px);
+        }
+
+        #fatkun-drop-area-overlay {
+            z-index: 1147483646;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            background: rgba(33, 33, 33, 0.5);
+            user-select: none;
+            pointer-events: none;
+            transition: opacity 50ms ease;
+        }
+
+        #fatkun-drop-area-overlay.show {
+            opacity: 1;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content {
+            display: flex;
+            text-align: left;
+            flex-direction: row;
+            flex-shrink: initial;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel {
+            position: relative;
+            min-width: 200px;
+            width: 200px;
+            min-height: 200px;
+            align-items: center;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item {
+            text-align: center;
+            display: flex;
+            flex-shrink: initial;
+            flex-direction: row;
+            align-items: center;
+            background-color: #f1f2f4;
+            border-radius: 0;
+            padding: 0 16px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            height: auto !important;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item.dragenter {
+            background-color: #e1e2e4;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item .title {
+            font-size: 14px !important;
+            overflow: initial !important;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-right-panel {
+            padding: 5px;
+            flex: 1;
+            max-width: calc(100% - 200px);
+        }
+
+        .fatkun-drop-area.old-version {
+            width: 200px;
+        }
+
+        .fatkun-drop-area.old-version .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item {
+            right: 0;
+        }
+
+        .fatkun-drop-area.old-version .fatkun-drop-area-content .fatkun-right-panel {
+            display: none;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-drop-area-item {
+            height: 32px;
+            display: flex !important;
+            align-items: center !important;
+            border-radius: 5px;
+            padding: 0 12px;
+            transition: all 80ms ease;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-right-panel .fatkun-drop-area-item .title {
+            align-self: flex-start !important;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-drop-area-item.all {
+            /*padding: 20px 12px;*/
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-drop-area-item.dragenter {
+            background-color: #f1f2f4;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .fatkun-drop-area-item * {
+            pointer-events: none;
+            flex-shrink: initial;
+            max-width: 100%;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content hr {
+            border: 0 !important;
+            height: 1px !important;
+            margin: 5px 0 !important;
+            background-color: #e9e9e9 !important;
+            display: block !important;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .icon {
+            height: 32px;
+            width: 32px;
+            line-height: 32px;
+            text-align: center;
+            margin: 0 auto 20px !important;
+            background: rgba(128, 128, 128, 0.20);
+            border-radius: 50%;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .icon .fake-svg {
+            -webkit-mask: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIxM3B4IiBoZWlnaHQ9IjE1cHgiIHZpZXdCb3g9IjAgMCAxMyAxNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4gICAgICAgIDx0aXRsZT5pY19kb3dubG9hZF9ub3JtYWw8L3RpdGxlPiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4gICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+ICAgICAgICA8ZyBpZD0i5paw54mI5pys5ouW5ou95qaC5b+1LS0t5ouW5ou96Kem5Y+RIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODE0LjAwMDAwMCwgLTM2Mi4wMDAwMDApIiBmaWxsPSIjMzMzMzMzIj4gICAgICAgICAgICA8ZyBpZD0iR3JvdXAtMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzA5LjAwMDAwMCwgMjg5LjAwMDAwMCkiPiAgICAgICAgICAgICAgICA8ZyBpZD0iR3JvdXAtNyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUuMDAwMDAwLCA2MS4wMDAwMDApIj4gICAgICAgICAgICAgICAgICAgIDxnIGlkPSJHcm91cC02IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2Ny40NTAwMDAsIDAuMDAwMDAwKSI+ICAgICAgICAgICAgICAgICAgICAgICAgPGcgaWQ9ImFycm93LWRvd24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLjM1MDAwMCwgMTIuMzUwMDAwKSI+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwb2x5Z29uIGlkPSJpY19kb3dubG9hZF9ub3JtYWwiIHBvaW50cz0iNi42NSAxMy43NzUgMC40NzUgNy42IDMuOCA3LjYgMy44IDAgOS41IDAgOS41IDcuNiAxMi44MjUgNy42Ij48L3BvbHlnb24+ICAgICAgICAgICAgICAgICAgICAgICAgPC9nPiAgICAgICAgICAgICAgICAgICAgPC9nPiAgICAgICAgICAgICAgICA8L2c+ICAgICAgICAgICAgPC9nPiAgICAgICAgPC9nPiAgICA8L2c+PC9zdmc+) no-repeat center center;
+            /*background: #333;*/
+            height: 32px;
+            width: 32px;
+            background: #666;
+            transition: all 0.3s ease-in-out;
+            animation: icon-jump 1.5s ease 0s infinite normal;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .title {
+            font-family: "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "å¾®è½¯é›…é»‘", "Helvetica Neue", Helvetica, Arial, Arial, sans-serif;
+            font-size: 12px !important;
+            font-weight: 400 !important;
+            line-height: 32px !important;
+            overflow: hidden !important;
+            white-space: nowrap !important;
+            text-overflow: ellipsis !important;
+            -webkit-font-smoothing: antialiased !important;
+            -moz-osx-font-smoothing: grayscale !important;
+            color: #111 !important;
+            margin: 0 !important;
+            display: block !important;
+            transition: all 0.3s ease-in-out;
+            max-width: 100%;
+        }
+
+        .fatkun-drop-area .fatkun-drop-area-content .description {
+            font-family: "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "å¾®è½¯é›…é»‘", "Helvetica Neue", Helvetica, Arial, Arial, sans-serif;
+            font-size: 12px !important;
+            font-weight: 400 !important;
+            -webkit-font-smoothing: antialiased !important;
+            -moz-osx-font-smoothing: grayscale !important;
+            margin-top: 12px !important;
+            margin-bottom: 0 !important;
+            line-height: 1.5 !important;
+            color: #111 !important;
+            opacity: 0.6;
+            transition: all 0.3s ease-in-out;
+            max-width: 100%;
+        }
+
+        .fatkun-drop-area.dragover {
+            opacity: 1;
+        }
+
+        @media (prefers-color-scheme: dark) {
+
+            .fatkun-drop-area {
+                background: rgba(37, 37, 40, 0.98);
+                box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.20);
+                border: none;
+            }
+
+            #fatkun-drop-area-overlay {
+                background: rgba(72, 72, 72, 0.3);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .fatkun-right-panel {
+                background-color: rgba(255, 255, 255, 0.05);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .fatkun-right-panel .fatkun-drop-area-item.dragenter {
+                background-color: rgba(255, 255, 255, 0.10);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item {
+                background-color: rgba(0, 0, 0, 0.05);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .fatkun-left-panel .fatkun-drop-area-item.dragenter {
+                background-color: rgba(255, 255, 255, 0.10);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content hr {
+                background-color: rgba(255, 255, 255, 0.1) !important;
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .title {
+                color: #fff !important;
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .description {
+                color: #fff !important;
+                opacity: 0.7;
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .icon {
+                background: rgba(255, 255, 255, 0.10);
+            }
+
+            .fatkun-drop-area .fatkun-drop-area-content .icon .fake-svg {
+                background: #fff;
+            }
+
+        }
+
+        @keyframes icon-jump {
+            0% {
+                transform: translateY(0);
+            }
+
+            20% {
+                transform: translateY(0);
+            }
+
+            40% {
+                transform: translateY(-20px);
+            }
+
+            50% {
+                transform: translateY(0);
+            }
+
+            60% {
+                transform: translateY(-7px);
+            }
+
+            80% {
+                transform: translateY(0);
+            }
+
+            100% {
+                transform: translateY(0);
+            }
+        }
+
+        .fatkun-drop-bottom-area {
+            font-family: "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "å¾®è½¯é›…é»‘", "Helvetica Neue", Helvetica, Arial, Arial, sans-serif;
+            font-weight: 400;
+            z-index: 2147483647;
+            position: fixed;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            height: 120px;
+            text-align: center;
+            transition: opacity 0.3s ease-in-out, transform 0.2s ease-in-out, border 0.3s ease-in-out, box-shadow 0.2s ease-in-out;
+            -webkit-perspective: 1000;
+            transform: translateY(100%);
+            background: #303034;
+            border-top: 1px solid rgba(255, 255, 255, 0.07);
+            box-sizing: border-box;
+        }
+
+        .fatkun-drop-bottom-area .fatkun-drop-area-content {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fatkun-drop-bottom-area .fatkun-drop-area-content .icon {
+            height: 44px;
+            width: 44px;
+            line-height: 44px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.20);
+            border-radius: 50%;
+            transition: all 0.3s ease-in-out;
+            margin-right: 24px;
+        }
+
+        .fatkun-drop-bottom-area .fatkun-drop-area-content .icon .fake-svg {
+            -webkit-mask: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIxM3B4IiBoZWlnaHQ9IjE1cHgiIHZpZXdCb3g9IjAgMCAxMyAxNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4gICAgICAgIDx0aXRsZT5pY19kb3dubG9hZF9ub3JtYWw8L3RpdGxlPiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4gICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+ICAgICAgICA8ZyBpZD0i5paw54mI5pys5ouW5ou95qaC5b+1LS0t5ouW5ou96Kem5Y+RIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODE0LjAwMDAwMCwgLTM2Mi4wMDAwMDApIiBmaWxsPSIjMzMzMzMzIj4gICAgICAgICAgICA8ZyBpZD0iR3JvdXAtMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzA5LjAwMDAwMCwgMjg5LjAwMDAwMCkiPiAgICAgICAgICAgICAgICA8ZyBpZD0iR3JvdXAtNyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUuMDAwMDAwLCA2MS4wMDAwMDApIj4gICAgICAgICAgICAgICAgICAgIDxnIGlkPSJHcm91cC02IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2Ny40NTAwMDAsIDAuMDAwMDAwKSI+ICAgICAgICAgICAgICAgICAgICAgICAgPGcgaWQ9ImFycm93LWRvd24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEyLjM1MDAwMCwgMTIuMzUwMDAwKSI+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwb2x5Z29uIGlkPSJpY19kb3dubG9hZF9ub3JtYWwiIHBvaW50cz0iNi42NSAxMy43NzUgMC40NzUgNy42IDMuOCA3LjYgMy44IDAgOS41IDAgOS41IDcuNiAxMi44MjUgNy42Ij48L3BvbHlnb24+ICAgICAgICAgICAgICAgICAgICAgICAgPC9nPiAgICAgICAgICAgICAgICAgICAgPC9nPiAgICAgICAgICAgICAgICA8L2c+ICAgICAgICAgICAgPC9nPiAgICAgICAgPC9nPiAgICA8L2c+PC9zdmc+) no-repeat center center;
+            height: 44px;
+            width: 44px;
+            background: #fff;
+            transition: all 0.3s ease-in-out;
+            animation: icon-jump 1s ease 0s infinite normal;
+        }
+
+        .fatkun-drop-bottom-area .fatkun-drop-area-content .title {
+            font-family: "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", "å¾®è½¯é›…é»‘", "Helvetica Neue", Helvetica, Arial, Arial, sans-serif;
+            font-size: 18px !important;
+            font-weight: 500 !important;
+            -webkit-font-smoothing: antialiased !important;
+            -moz-osx-font-smoothing: grayscale !important;
+            color: #fff !important;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .fatkun-drop-bottom-area.show {
+            opacity: 0.8;
+            transform: translateY(0) scale3d(1, 1, 1);
+        }
+
+        .fatkun-drop-bottom-area.dragover {
+            opacity: 0.95;
+        }
+        #fatkun-drop-panel-close-btn{
+            z-index: 1;
+            display: block;
+            width: 24px;
+            height: 24px;
+            position: absolute;
+            right: 0px;
+            top: 0px;
+            font-size: 24px;
+            color: #000;
+            text-align: center;
+            text-decoration: none;
+            line-height: 24px;
+        }
+    </style><style class="darkreader darkreader--sync" media="screen"></style>
+
+    <div id="fatkun-drop-area" class="fatkun-drop-area old-version" style="left: 7px;top: 0;">
+        <div id="fatkun-drop-panel-close-btn">×</div>
+        <div class="fatkun-drop-area-content">
+            <div class="fatkun-left-panel">
+                <div class="fatkun-drop-area-item" folder-id="">
+                    <div>
+                        <div class="icon">
+                            <div class="fake-svg"></div>
+                        </div>
+                        <div class="title">Drag and drop</div>
+                        <div class="description">The image dropped here will be downloaded by Fatkun</div>
+                    </div>
+                </div>
+            </div>
+            <div class="fatkun-right-panel">
+                <div id="fatkun-drop-area-folders">
+                </div>
+                <div class="fatkun-drop-area-item" folder-id="choose">
+                    <div class="title">Choose folder...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="fatkun-drop-area-overlay" class="" style="
+    opacity: 1;
+"></div>
+</template></fatkun-drop-panel></html>

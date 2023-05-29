@@ -1,0 +1,11 @@
+<a href="#overview">Overview</a></h1>
+		<div class="content">
+			<div class="wrapper">
+				<p>
+					This CodePen demonstrates how we can animate the opening and closing
+					states of an accordion with fancy reveal animation using only CSS. This
+					concept is suitable for creating <strong>FAQ sections</strong>,
+					<strong>Table of Contents</strong>, and more.
+				</p>
+			</div>
+		</div>
